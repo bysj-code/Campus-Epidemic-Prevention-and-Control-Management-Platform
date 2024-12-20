@@ -1,0 +1,8 @@
+{
+  "navigationBarBackgroundColor": "#4b6973",
+  "navigationBarTextStyle": "white",
+  "navigationBarTitleText": "校园疫情防控管理平台首页",
+  "usingComponents": {
+    "uni-icons": "/components/uni-ui/lib/uni-icons/uni-icons"
+  }
+}
